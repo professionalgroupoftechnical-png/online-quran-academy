@@ -1810,7 +1810,7 @@ footer {
 
 
   .stats-bar {
-    margin-top: 0 !important;
+    margin-top: 30px !important;
   }
 }
 
@@ -1860,6 +1860,10 @@ footer {
   .floating-btn {
     width: 52px;
     height: 52px;
+  }
+
+  .stats-bar {
+    margin-top: 32px !important;
   }
 }
 
